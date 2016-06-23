@@ -1,7 +1,7 @@
 # explodeTree
 PHP function to transform arrays/tables into trees
 
-None of this code is my work, all credit goes to (kvz.io blog)[http://kvz.io/blog/2007/10/03/convert-anything-to-tree-structures-in-php/].
+None of this code is my work, all credit goes to [kvz.io](http://kvz.io/blog/2007/10/03/convert-anything-to-tree-structures-in-php/) blog.
 
 I just have cloned those scripts to keep they with me for my personal use and study. It's a complex task that is performed pretty well (and fairly fast) with these scripts.
 
